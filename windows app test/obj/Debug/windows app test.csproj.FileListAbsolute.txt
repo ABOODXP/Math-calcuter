@@ -1,0 +1,13 @@
+D:\progiler\windows app test\windows app test\bin\Debug\windows app test.exe.config
+D:\progiler\windows app test\windows app test\bin\Debug\windows app test.exe
+D:\progiler\windows app test\windows app test\bin\Debug\windows app test.pdb
+D:\progiler\windows app test\windows app test\obj\Debug\windows app test.csproj.AssemblyReference.cache
+D:\progiler\windows app test\windows app test\obj\Debug\windows app test.csproj.SuggestedBindingRedirects.cache
+D:\progiler\windows app test\windows app test\obj\Debug\windows_app_test.Form1.resources
+D:\progiler\windows app test\windows app test\obj\Debug\windows_app_test.Properties.Resources.resources
+D:\progiler\windows app test\windows app test\obj\Debug\windows app test.csproj.GenerateResource.cache
+D:\progiler\windows app test\windows app test\obj\Debug\windows app test.csproj.CoreCompileInputs.cache
+D:\progiler\windows app test\windows app test\obj\Debug\windows app test.exe
+D:\progiler\windows app test\windows app test\obj\Debug\windows app test.pdb
+D:\progiler\windows app test\windows app test\bin\Debug\Guna.UI2.dll
+D:\progiler\windows app test\windows app test\obj\Debug\windows app test.csproj.CopyComplete
